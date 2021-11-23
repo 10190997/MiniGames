@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGames", "MiniGames\MiniGames.csproj", "{9DB7CEDE-6580-4FC0-87A3-51C887E78791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{A388A1A7-5C6C-4DCC-97FA-43BD2AAB2EB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{49ED086F-333A-4272-A8BE-1BD26835542B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB7CEDE-6580-4FC0-87A3-51C887E78791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7CEDE-6580-4FC0-87A3-51C887E78791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB7CEDE-6580-4FC0-87A3-51C887E78791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB7CEDE-6580-4FC0-87A3-51C887E78791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A388A1A7-5C6C-4DCC-97FA-43BD2AAB2EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A388A1A7-5C6C-4DCC-97FA-43BD2AAB2EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A388A1A7-5C6C-4DCC-97FA-43BD2AAB2EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A388A1A7-5C6C-4DCC-97FA-43BD2AAB2EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CDE172-0CC8-4E32-B0DA-7E582A5C58B7}
+	EndGlobalSection
+EndGlobal
